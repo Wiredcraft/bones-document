@@ -3,7 +3,7 @@
     "version": "2.0.0",
 
     "dependencies": {
-        "JSV": "https://github.com/garycourt/JSV/tarball/e05e2595cb9e11251e5231a1f384043443532bd6",
+        "JSV": "~4.0.1",
         "showdown": "https://github.com/coreyti/showdown/tarball/3c52317851e07772ceef1593686e9cf018ae6563"
     },
 
